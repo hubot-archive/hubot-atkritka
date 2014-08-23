@@ -20,7 +20,7 @@
   },
 
   "dependencies": {
-    "jsdom": "1.0.0-pre.1"
+    "jsdom": ">=1.0.0-pre.1"
   },
 
   "main": "index.coffee"
