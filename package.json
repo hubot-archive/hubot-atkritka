@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-atkritka.git"
+    "url": "git://github.com/skibish/hubot-atkritka.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-atkritka/issues"
+    "url": "https://github.com/skibish/hubot-atkritka/issues"
   },
 
   "dependencies": {
