@@ -1,7 +1,7 @@
 {
   "name": "hubot-atkritka",
   "description": "Hubot script to display random Atkritka from Atkritka.com by keyword",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Sergey Kibish <sergey.kibish@gmail.com>",
   "license": "MIT",
 
