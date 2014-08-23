@@ -1,7 +1,7 @@
 Hubot Atkritka
 =========
 
-Get random Atkritka from Atkritka.com by keyword
+Get random Atkritka from Atkritka.com by keyword (in Russian).
 
 # Installation
 
