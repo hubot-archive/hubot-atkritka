@@ -1,28 +1,22 @@
 {
   "name": "hubot-atkritka",
   "description": "Hubot script to display random Atkritka from Atkritka.com by keyword",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Sergey Kibish <sergey.kibish@gmail.com>",
   "license": "MIT",
-
   "keywords": [
     "hubot",
     "hubot-scripts"
   ],
-
   "repository": {
     "type": "git",
     "url": "https://github.com/hubot-scripts/hubot-atkritka"
   },
-
   "bugs": {
     "url": "https://github.com/hubot-scripts/hubot-atkritka/issues"
   },
-
   "dependencies": {
     "jsdom": ">=1.0.0-pre.1"
   },
-
   "main": "index.coffee"
-
 }
